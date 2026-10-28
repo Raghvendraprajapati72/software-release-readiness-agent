@@ -1,0 +1,4 @@
+defect_id,severity,status,description
+D001,MEDIUM,CLOSED,UI alignment issue
+D002,LOW,CLOSED,Minor logging improvement
+D003,MEDIUM,CLOSED,Non-blocking validation message

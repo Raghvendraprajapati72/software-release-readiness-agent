@@ -1,0 +1,11 @@
+SOFTWARE RELEASE CRITERIA
+
+1. Minimum test pass rate: 95%
+2. Open CRITICAL/HIGH defects: 0
+3. Open CRITICAL/HIGH security findings: 0
+4. Evidence freshness: maximum 24 hours
+5. Missing evidence must be treated as a failure.
+6. Zero executed tests must be treated as a failure.
+7. Conditional-GO is allowed only when explicitly enabled by release policy.
+8. The decision-support agent must never trigger deployment.
+9. A human release manager owns the final go/no-go decision.

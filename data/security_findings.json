@@ -1,0 +1,14 @@
+[
+  {
+    "id": "SEC001",
+    "severity": "LOW",
+    "status": "CLOSED",
+    "description": "Informational header recommendation"
+  },
+  {
+    "id": "SEC002",
+    "severity": "MEDIUM",
+    "status": "CLOSED",
+    "description": "Dependency advisory already remediated"
+  }
+]
